@@ -1,5 +1,6 @@
 init.bat
 make_env.bat
+run.bat
 .ipynb_checkpoints/
 
 name_list.txt
